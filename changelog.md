@@ -1,6 +1,8 @@
 # Changelogs:
 ## 1.2
-* Updated Fabric API to 0.36.0
+- Updated to the third 2021.2 MCreator snapshot (EAP 2021.2.30411)
+- Updated to Fabric 1.17.1
+- Updated Fabric API top 0.37.0
 * [Bugfix #118] The drop of custom block caused a build error.
 
 ## 1.1
