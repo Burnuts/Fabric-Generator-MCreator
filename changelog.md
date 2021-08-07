@@ -1,4 +1,8 @@
 # Changelogs:
+## 2.0-dev.2
+- Updated to Fabric 1.18 Experimental Snapshot
+- Updated Fabric API top 0.37.2
+
 ## 1.2
 - Updated to the third 2021.2 MCreator snapshot (EAP 2021.2.30411)
 - Updated to Fabric 1.17.1
